@@ -1,0 +1,11 @@
+C:\Users\F\Documents\GitHub\Database\ProjectDB\obj\Debug\netcoreapp2.1\ProjectDB.csprojAssemblyReference.cache
+C:\Users\F\Documents\GitHub\Database\ProjectDB\obj\Debug\netcoreapp2.1\ProjectDB.csproj.CoreCompileInputs.cache
+C:\Users\F\Documents\GitHub\Database\ProjectDB\obj\Debug\netcoreapp2.1\ProjectDB.AssemblyInfoInputs.cache
+C:\Users\F\Documents\GitHub\Database\ProjectDB\obj\Debug\netcoreapp2.1\ProjectDB.AssemblyInfo.cs
+C:\Users\F\Documents\GitHub\Database\ProjectDB\bin\Debug\netcoreapp2.1\ProjectDB.deps.json
+C:\Users\F\Documents\GitHub\Database\ProjectDB\bin\Debug\netcoreapp2.1\ProjectDB.runtimeconfig.json
+C:\Users\F\Documents\GitHub\Database\ProjectDB\bin\Debug\netcoreapp2.1\ProjectDB.runtimeconfig.dev.json
+C:\Users\F\Documents\GitHub\Database\ProjectDB\bin\Debug\netcoreapp2.1\ProjectDB.dll
+C:\Users\F\Documents\GitHub\Database\ProjectDB\bin\Debug\netcoreapp2.1\ProjectDB.pdb
+C:\Users\F\Documents\GitHub\Database\ProjectDB\obj\Debug\netcoreapp2.1\ProjectDB.dll
+C:\Users\F\Documents\GitHub\Database\ProjectDB\obj\Debug\netcoreapp2.1\ProjectDB.pdb
